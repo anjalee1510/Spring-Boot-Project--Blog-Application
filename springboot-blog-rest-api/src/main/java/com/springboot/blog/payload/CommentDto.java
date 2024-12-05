@@ -28,4 +28,6 @@ public class CommentDto {
 	@Size(min=10, message="Comment body must be minimum 10 characters")
 	private String body;
    // Added comment
+	
+	
 }
